@@ -1,7 +1,7 @@
 package polarLog
 
 import (
-	"gitee.com/hja2017/polarLog/conf"
+	"github.com/polariao/polarLog/conf"
 	"runtime"
 )
 
